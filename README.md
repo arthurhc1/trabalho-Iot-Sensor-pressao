@@ -22,4 +22,4 @@ os tópicos do cloud HiveMQ, se saberá qual a temperatura do quarto.
 
 utilizando os tópicos estufa/led e estufa/temperatura conseguimos acessar via cloud os valores lidos pelo sensor.
 
-# Link: https://wokwi.com/projects/432612181763867649 
+# Link projeto wokwi: https://wokwi.com/projects/432612181763867649
